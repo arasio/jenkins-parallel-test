@@ -7,6 +7,6 @@ public class Sample2Test {
 	@Test
 	public void test() throws InterruptedException {
 		assertEquals(3, 1 + 2);
-		Thread.sleep(2000);
+		Thread.sleep(20000);
 	}
 }
